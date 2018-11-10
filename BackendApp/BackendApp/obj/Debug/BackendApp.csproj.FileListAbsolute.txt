@@ -1,0 +1,17 @@
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\BackendApp.exe.config
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\BackendApp.exe
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\BackendApp.pdb
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\EasyNetQ.dll
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\messages.dll
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\messages.pdb
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\obj\Debug\BackendApp.csprojAssemblyReference.cache
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\obj\Debug\BackendApp.csproj.CoreCompileInputs.cache
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\obj\Debug\BackendApp.csproj.CopyComplete
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\obj\Debug\BackendApp.exe
+C:\Users\Sneha More\source\repos\BackendApp\BackendApp\obj\Debug\BackendApp.pdb

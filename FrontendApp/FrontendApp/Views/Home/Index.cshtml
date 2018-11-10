@@ -1,0 +1,45 @@
+﻿<br />
+<br />
+<br />
+    <div class="text-center">
+        <h1 class="display-4">Pub/Sub Pattern</h1>
+        <br />
+        <br />
+        <div class="well">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="input-group">
+                        <input class="form-control border-secondary" type="search" placeholder="Search" id="search-text">
+                        <div class="input-group-append">
+                            <button class="btn btn-outline-secondary" type="button" id="search-button" onclick="publish()" >
+                                Publish event to  youtube queue
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <script>
+        function publish() {
+            var pub = document.getElementById("search-text").value;
+
+            $.ajax({
+                type: "POST",
+                async: true,
+                url: '/Home/Publish',
+                data: { param: pub },
+                success: function (result) {
+                    alert("Published event from queue has been successfully processed by backend subscribers.");
+                },
+                error: function (err) {
+                    //debugger;
+                    console.log(err.responseText);
+                    alert("Error has occurred..");
+                }
+            });
+        }
+    </script>
